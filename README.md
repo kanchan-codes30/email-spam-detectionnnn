@@ -1,2 +1,2 @@
-# Ai Multi-agent research
+# email-spam detection
 ML project based on real problem
